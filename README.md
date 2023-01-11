@@ -68,11 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Two-way-data-binding
-# Two-way-data-binding
-# two-way-data-binding-hw5
-# two-way-data-binding-hw5
-# two-way-data-binding-hw5
-# two-way-data-binding-hw5
-# two-way-data-binding-hw5
-# two-way-data-binding-hw5
+# hw5.
+# hw5.
